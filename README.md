@@ -26,12 +26,15 @@ one hot encoding for the labels will be suffice for the task and thus categorica
 
 
 HYPER_PARAMETERS TUNING
+
 Hyper parameters will be tuned as required ,lr_decay ,beta constants for the sgd with momentum, optimisers loss,layers , neurons in a layer.
 
 BREIF ABOUT THE MODEL
+
 A CNN-LSTM model is used where the inputs  from the  cnn is used in a time feed forward manner and the forward propagation through time is learnt by the LStm and is converted into a sequence of the defined labels.
 
-Future SCope:
+FUTURE SCOPE
+
 Application of GANs for production of the further frames  or prediction of the next actions will be the future scope of the project.
 
 
